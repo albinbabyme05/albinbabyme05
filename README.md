@@ -1,9 +1,7 @@
-# Hey 👋, I'm AAlbin Baby :)
+# Hey 👋, I'm Albin Baby 😊
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/albin-babyy/)
-
-[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=instagram)](https://www.instagram.com/_._try8yorself_._/)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/albin-babyy/) 
+[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=instagram)](https://www.instagram.com/_._try8yorself_._/) 
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/sd_albin_baby)
 
 I'm a self-taught developer with a passion for creating immersive web experiences and scalable apps. I have experience in Python, JavaScript/TypeScript, AI (Machine Learning, Deep Learning), and C++.
