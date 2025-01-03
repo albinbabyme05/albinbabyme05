@@ -1,6 +1,6 @@
 # Hey 👋, I'm AAlbin Baby :)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/albin-babyy/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([[https://www.linkedin.com/in/albin-babyy/]
 
 [![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=instagram)]([https://instagram.com/yourprofile](https://www.instagram.com/_._try8yorself_._/))
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/sd_albin_baby)
