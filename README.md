@@ -11,8 +11,10 @@ I'm a self-taught developer with a passion for creating immersive web experience
 ## 🧑‍💻 **About Me**
 
 - 🚀 Currently working as a working student **fullstack developer** at **Fraunhofer IOSB, Karlsruhe, Stuttgart**.
+- 🧑‍🎓  I have Master in Engineering Degree (Mechtronics and Cyber Physical Sytems).
+- 🧾 Master Thesis: Photogrammetry based lane edge detection using Deep Learning.
 - 🌱 Learning: **React Native, gRPC, Docker**.
-- 💬 Ask me about **Python, JS/TS, C++**.
+- 💬 Ask me about **Python, JS/TS, C++, ML/DL**.
 
 ---
 
@@ -27,6 +29,10 @@ I'm a self-taught developer with a passion for creating immersive web experience
 - Flask, FastAPI, Django
 
 ### C++
+
+### Artificial Intelligence
+- Tensorflow, Pytorch, CNN, OpenCV
+- Scikit, Pandas, Numpy, Matplotlib, Keras
 
 ### Microservices
 - Docker
