@@ -14,7 +14,7 @@ I'm a self-taught developer with a passion for creating immersive web experience
 - 🧑‍🎓  I have Master in Engineering Degree (Mechtronics and Cyber Physical Sytems).
 - 🧾 Master Thesis: Photogrammetry based lane edge detection using Deep Learning.
 - 🌱 Learning: **React Native, gRPC, Docker**.
-- 💬 Ask me about **Python, JS/TS, C++, ML/DL**.
+- 💬 Ask me about **Python, Java/Type Script, C++, Machine/Deep Learning**.
 
 ---
 
