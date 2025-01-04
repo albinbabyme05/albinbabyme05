@@ -43,3 +43,22 @@ I'm a self-taught developer with a passion for creating immersive web experience
 ## 📬 **Contact Me**
 
 - Email: albinbaby150@gmail.com
+- ------------------------------------------------------------------- -
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=radical)
+
+### Open Source Contributions
+- Contributed to [React](https://github.com/facebook/react): Fixed issue with hooks documentation.
+- Maintained [Your Open Source Project](https://github.com/yourusername/yourproject).
+
+- # My GitHub Contribution Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=yourusername&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=radical)
+
+
+
