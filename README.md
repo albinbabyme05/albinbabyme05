@@ -18,7 +18,7 @@ I'm a self-taught developer with a passion for creating immersive web experience
 
 ---
 
-## 🛠 **Tech Stack**
+# 🛠 **Tech Stack**
 
 ### JavaScript x TypeScript
 - React (Next.js)
@@ -39,21 +39,24 @@ I'm a self-taught developer with a passion for creating immersive web experience
 - gRPC
 
 ---
+# My GitHub Contribution Statistics
 
-## 📬 **Contact Me**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=albinbabyme05&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
+  <img src="https://streak-stats.demolab.com?user=albinbabyme05&theme=radical" alt="GitHub Streak Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinbabyme05&layout=compact&theme=radical" alt="Top Languages" height="150">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=albinbabyme05&theme=radical" alt="GitHub Activity Graph">
+</div>
+
+# 📬 **Contact Me**
 
 - Email: albinbaby150@gmail.com
 - ------------------------------------------------------------------- -
 
-- # My GitHub Contribution Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albinbabyme05&show_icons=true&theme=radical)
-
-![GitHub Streak Stats](https://streak-stats.demolab.com?user=albinbabyme05&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albinbabyme05&layout=compact&theme=radical)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=albinbabyme05&theme=radical)
 
 
 
