@@ -11,10 +11,10 @@ I'm a self-taught developer with a passion for creating immersive web experience
 ## 🧑‍💻 **About Me**
 
 - 🚀 Currently working as a working student **fullstack developer** at **Fraunhofer IOSB, Karlsruhe, Stuttgart**.
-- 🧑‍🎓  I have Master in Engineering Degree (Mechtronics and Cyber Physical Sytems).
-- 🧾 Master Thesis: Photogrammetry based lane edge detection using Deep Learning.
+- 🧑‍🎓  I have a Master in Engineering Degree (Mechatronics and Cyber Physical Systems).
+- 🧾 Master Thesis: Photogrammetry-based lane edge detection using Deep Learning.
 - 🌱 Learning: **React Native, gRPC, Docker**.
-- 💬 Ask me about **Python, Java/Type Script, C++, Machine/Deep Learning**.
+- 💬 Ask me about **Python, Java/TypeScript, C++, Machine/Deep Learning**.
 
 ---
 
@@ -31,7 +31,7 @@ I'm a self-taught developer with a passion for creating immersive web experience
 ### C++
 
 ### Artificial Intelligence
-- Tensorflow, Pytorch, CNN, OpenCV
+- TensorFlow, PyTorch, CNN, OpenCV
 - Scikit, Pandas, Numpy, Matplotlib, Keras
 
 ### Microservices
@@ -39,11 +39,12 @@ I'm a self-taught developer with a passion for creating immersive web experience
 - gRPC
 
 ---
+
 # GitHub Contribution Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=albinbabyme05&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
-  <img src="https://streak-stats.demolab.com?user=albinbabyme05&theme=radical" alt="GitHub Streak Stats" height="150">
+  <img src="https://streak-stats.demolab.com?user=albinbabyme05&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j" alt="GitHub Streak Stats" height="150" onerror="this.src='https://streak-stats.demolab.com?user=albinbabyme05&theme=radical&hide_border=true&streak_length=0';">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinbabyme05&layout=compact&theme=radical" alt="Top Languages" height="150">
 </div>
 
@@ -51,12 +52,8 @@ I'm a self-taught developer with a passion for creating immersive web experience
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=albinbabyme05&theme=radical" alt="GitHub Activity Graph">
 </div>
 
+---
+
 # 📬 **Contact Me**
 
 - Email: albinbaby150@gmail.com
-- ------------------------------------------------------------------- -
-
-
-
-
-
