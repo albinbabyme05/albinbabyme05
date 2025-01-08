@@ -28,27 +28,13 @@ I'm a self-taught developer with a passion for creating immersive web experience
 
 ---
 
-## 🚀 **Featured Projects**
 
-### [Project Name](https://github.com/albinbabyme05/project-link)
-- **Description**: A brief description of the project.
-- **Tech Stack**: React, Node.js, MongoDB
-- ![Demo](https://img.shields.io/badge/Demo-Available-green?style=flat-square)
-
-### [Another Project](https://github.com/albinbabyme05/another-project)
-- **Description**: A brief description of the second project.
-- **Tech Stack**: Python, TensorFlow, OpenCV
-- ![Demo](https://img.shields.io/badge/Demo-Available-green?style=flat-square)
 
 ---
 
 ## 📊 **My GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albinbabyme05&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
 ---
-
-# GitHub Contribution Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=albinbabyme05&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
@@ -62,12 +48,7 @@ I'm a self-taught developer with a passion for creating immersive web experience
 
 ---
 
-## 🌍 Find me on the web
-- [LinkedIn](https://www.linkedin.com/in/albin-babyy/)
-- [Instagram](https://www.instagram.com/_._try8yorself_._/)
-- [Telegram](https://t.me/sd_albin_baby)
-- [Medium](https://medium.com/@albinbaby)
-- [Stack Overflow](https://stackoverflow.com/users/1234567/albin-baby)
+
 
 # 📬 **Contact Me**
 
