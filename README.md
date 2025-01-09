@@ -20,6 +20,27 @@ I'm a self-taught developer with a passion for creating immersive web experience
 
 ---
 
+# 🛠 **Tech Stack**
+
+### JavaScript x TypeScript
+- React (Next.js)
+- MongoDB, SQL (SQLite, PostgreSQL, MySQL)
+- TailwindCSS
+
+### Python
+- Flask, FastAPI, Django
+
+### C++
+
+### Artificial Intelligence
+- TensorFlow, PyTorch, CNN, OpenCV
+- Scikit, Pandas, Numpy, Matplotlib, Keras
+
+### Microservices
+- Docker
+- gRPC
+
+---
 ## 🎨 **Fun Facts**
 
 - I love learning new programming languages and frameworks!
