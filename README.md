@@ -58,12 +58,18 @@ I'm a self-taught developer with a passion for creating immersive web experience
 
 
 <div align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=albinbabyme05&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
   
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinbabyme05&layout=compact&theme=radical" alt="Top Languages" height="150">
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=albinbabyme05&theme=radical&hide_border=true" alt="GitHub Streak Stats" height="150">
 </div>
 
 <div align="center">
+  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=albinbabyme05&theme=radical" alt="GitHub Activity Graph">
 </div>
 
