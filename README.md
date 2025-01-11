@@ -70,7 +70,11 @@ I'm a self-taught developer with a passion for creating immersive web experience
   <img src="https://streak-stats.demolab.com?user=albinbabyme05&theme=radical&hide_border=true" alt="GitHub Streak Stats" height="150">
 </div>
 
+<div align="center">
 
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=albinbabyme05&theme=radical" alt="GitHub Activity Graph">
+
+</div>
 
 ---
 
