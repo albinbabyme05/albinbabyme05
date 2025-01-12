@@ -65,8 +65,7 @@ I'm a self-taught developer with a passion for creating immersive web experience
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinbabyme05&layout=compact&theme=radical" alt="Top Languages" height="150">
   
  
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=albinbabyme05&theme=radical&hide_border=true" alt="GitHub Streak Stats" height="150">
+
 </div>
 
 <div align="center">
