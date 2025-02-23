@@ -1,4 +1,3 @@
-
 # 🚀 Hey, I'm Albin Baby! 👋😊  
 
 <div align="center">
@@ -47,11 +46,17 @@
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albinbabyme05&theme=radical" alt="GitHub Streak" height="150">
-  <img src="https://github-readme-stats.vercel.app/api?username=albinbabyme05&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinbabyme05&layout=compact&theme=radical" alt="Top Languages" height="150">
-<img src="https://metrics.lecoq.io/albinbabyme05?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Europe/Berlin" alt="GitHub Commit Activity in German Time" />
-
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albinbabyme05&theme=radical&locale=de" alt="GitHub Streak" />
+  <img src="https://metrics.lecoq.io/albinbabyme05?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Europe/Berlin" alt="GitHub Commit Activity in German Time" />
 </div>
+
+---
+
+## 📈 **Daily Commit Graph**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=albinbabyme05&theme=radical" alt="GitHub Activity Graph" />
+</div>
+
+---
 
