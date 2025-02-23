@@ -47,7 +47,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=albinbabyme05&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinbabyme05&layout=compact&theme=radical" alt="Top Languages" height="150">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=albinbabyme05&theme=radical" alt="GitHub Streak" height="150">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albinbabyme05&theme=radical" alt="GitHub Contribution Graph" height="150">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/daily-commits?username=albinbabyme05&theme=radical" alt="Daily Commit Counts" height="150">
 </div>
 
