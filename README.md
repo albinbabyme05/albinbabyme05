@@ -50,8 +50,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=albinbabyme05&theme=radical&locale=en" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=albinbabyme05&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinbabyme05&layout=compact&theme=radical" alt="Top Languages" height="150">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=albinbabyme05&theme=radical" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-activity.svg?username=albinbabyme05&theme=radical" alt="GitHub Commit Activity" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-activity.svg?username=albinbabyme05&theme=radical" alt="Monthly Commit Activity" />
 </div>
 
   
