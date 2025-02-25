@@ -2,8 +2,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albin-babyy/) 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_._try8yorself_._/) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albin-babyy/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_._try8yorself_._/)
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sd_albin_baby)
 
 </div>
@@ -48,12 +48,20 @@
 <div align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=albinbabyme05&theme=radical&locale=en" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=albinbabyme05&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinbabyme05&layout=compact&theme=radical" alt="Top Languages" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=albinbabyme05&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinbabyme05&layout=compact&theme=radical" alt="Top Languages" />
 
 </div>
 
-  
-</div>
+---
 
+## 📬 **Let's Connect!**
+
+📧 **Email**: albin.baby@example.com  
+💼 **LinkedIn**: [Albin Baby](https://www.linkedin.com/in/albin-babyy/)  
+💻 **GitHub**: [albinbabyme05](https://github.com/albinbabyme05)  
+📷 **Instagram**: [_._try8yorself_._](https://www.instagram.com/_._try8yorself_._/)  
+📨 **Telegram**: [sd_albin_baby](https://t.me/sd_albin_baby)  
+
+Thanks for stopping by! 😊🚀
 
