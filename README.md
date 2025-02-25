@@ -45,15 +45,18 @@
 
 ## 📊 **GitHub Stats**
 
+## 📊 **GitHub Stats**
+
 <div align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=albinbabyme05&theme=radical&locale=en" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=albinbabyme05&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinbabyme05&layout=compact&theme=radical" alt="Top Languages" />
-  ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=albinbabyme05&theme=radical)
-
+  
+  ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=albinbabyme05&theme=github)
 
 </div>
+
 
 ---
 
