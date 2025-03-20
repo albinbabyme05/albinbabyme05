@@ -43,7 +43,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
 
 ## 📊 **GitHub Stats**
 
