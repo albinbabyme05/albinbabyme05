@@ -38,6 +38,7 @@
 
 ### ⚡ **Other Skills**
 - C++
+- C#
 - REST APIs & GraphQL
 - Agile Methodologies (Scrum, Kanban)
 
