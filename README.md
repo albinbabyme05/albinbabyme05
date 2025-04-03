@@ -49,15 +49,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=albinbabyme05&theme=radical&locale=en" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albinbabyme05&theme=radical" alt="Yearly Contribution Graph" />
 <img src="https://github-readme-stats.vercel.app/api?username=albinbabyme05&show_icons=true&theme=radical" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinbabyme05&layout=compact&theme=radical" alt="Top Languages" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=albinbabyme05&theme=radical" alt="Commit Graph" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albinbabyme05&theme=radical" alt="Yearly Contribution Graph" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=albinbabyme05&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=albinbabyme05&theme=radical&area=true&hide_border=true" alt="Yearly Contribution Graph" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albinbabyme05&theme=radical" alt="Yearly Contribution Summary" />
+
+
 
 
 
