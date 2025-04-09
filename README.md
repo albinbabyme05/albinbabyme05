@@ -11,12 +11,9 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Hi+There!+👋;Thank+you+for+visiting+🙏" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Hi+There!+👋;" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/albinbabyme05/albinbabyme05/main/assets/ss.png" width="150" alt="avatar" />
-</p>
 
 ---
 
@@ -66,8 +63,4 @@
 ---
 
 
-  <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+🙏" alt="Typing SVG" />
-</div>
-</p>
 </div>
