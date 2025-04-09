@@ -10,6 +10,16 @@
 
 ---
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Hi+There!+👋;Thank+you+for+visiting+🙏" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/albinbabyme05/albinbabyme05/main/assets/ss.png" width="150" alt="avatar" />
+</p>
+
+---
+
 ## 🧑‍💻 **About Me**
 
 - 💼 **Full-Stack Developer** at **Fraunhofer IOSB, Karlsruhe, Stuttgart**
@@ -44,7 +54,6 @@
 
 ---
 
-
 ## 📊 **GitHub Stats**
 
 <div align="center">
@@ -54,16 +63,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinbabyme05&layout=compact&theme=radical" alt="Top Languages" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=albinbabyme05&theme=radical" alt="Commit Graph" />
 
-
-
-
-
-
-</div>
-
-
 ---
 
-
-Thanks for stopping by! 😊🚀
-
+<p align="center">
+  <b>✨ Thank you for visiting! ✨</b>
+</p>
+</div>
