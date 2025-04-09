@@ -67,7 +67,7 @@
 
 
   <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Thank+you+for+visiting+🙏" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+🙏" alt="Typing SVG" />
 </div>
 </p>
 </div>
