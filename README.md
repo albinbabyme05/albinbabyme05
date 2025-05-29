@@ -15,7 +15,8 @@
 
 - 💼 **Full-Stack Developer** at **Fraunhofer IOSB, Karlsruhe, Stuttgart**
 - 🎓 **Master's in Mechatronics & Cyber-Physical Systems**
-- 📜 **Master Thesis**: *Photogrammetry-based lane edge detection using Deep Learning*
+- 📜 **Master Thesis**: *Photogrammetry-based lane edge detection using Deep Learning* AVL LiST GmbH
+-  💻 1.5  Year Experience in Python worked at Robert BOSCH Germany
 - 🌱 Currently exploring **React Native, gRPC, Docker**
 - 💡 Passionate about **AI, Deep Learning, and Computer Vision**
 - 📸 Love **Photography, Hiking, and Innovation**
