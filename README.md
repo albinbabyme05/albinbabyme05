@@ -28,6 +28,7 @@
 ### 🚀 **Frontend & Backend**
 - **JavaScript & TypeScript** → React (Next.js), TailwindCSS
 - **Python** → Flask, FastAPI, Django
+- C# → MAUI, WPF, WinForm, DLL.
 - **Databases** → MongoDB, PostgreSQL, MySQL, SQLite
 
 ### 🤖 **Artificial Intelligence & Data Science**
@@ -40,7 +41,6 @@
 
 ### ⚡ **Other Skills**
 - C++
-- C#
 - REST APIs & GraphQL
 - Agile Methodologies (Scrum, Kanban)
 
